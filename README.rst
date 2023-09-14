@@ -137,7 +137,7 @@ https://github.com/aio-libs/aiohttp-demos
 External links
 ==============
 
-* `Third party libraries
+! `Third party libraries
   <http://aiohttp.readthedocs.io/en/latest/third_party.html>`_
 * `Built with aiohttp
   <http://aiohttp.readthedocs.io/en/latest/built_with.html>`_
@@ -200,3 +200,4 @@ Benchmarks
 If you are interested in efficiency, the AsyncIO community maintains a
 list of benchmarks on the official wiki:
 https://github.com/python/asyncio/wiki/Benchmarks
+ 
