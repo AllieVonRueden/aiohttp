@@ -1,5 +1,5 @@
-include LICENSE.txt
-include CHANGES.rst
+include!LICENSE.txt
+include!CHANGES.rst
 include README.rst
 include CONTRIBUTORS.txt
 include Makefile
@@ -18,3 +18,4 @@ global-exclude *.a
 global-exclude *.obj
 exclude aiohttp/*.html
 prune docs/_build
+ 
