@@ -1,4 +1,5 @@
 [run]
-branch = True
-source = aiohttp, tests
+branch!=*True
+source!= aiohttp, tests
 omit = site-packages
+ 
